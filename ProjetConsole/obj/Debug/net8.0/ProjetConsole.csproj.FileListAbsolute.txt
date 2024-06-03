@@ -1,0 +1,14 @@
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\ProjetConsole\bin\Debug\net8.0\ProjetConsole.exe
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\ProjetConsole\bin\Debug\net8.0\ProjetConsole.deps.json
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\ProjetConsole\bin\Debug\net8.0\ProjetConsole.runtimeconfig.json
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\ProjetConsole\bin\Debug\net8.0\ProjetConsole.dll
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\ProjetConsole\bin\Debug\net8.0\ProjetConsole.pdb
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\ProjetConsole\obj\Debug\net8.0\ProjetConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\ProjetConsole\obj\Debug\net8.0\ProjetConsole.AssemblyInfoInputs.cache
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\ProjetConsole\obj\Debug\net8.0\ProjetConsole.AssemblyInfo.cs
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\ProjetConsole\obj\Debug\net8.0\ProjetConsole.csproj.CoreCompileInputs.cache
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\ProjetConsole\obj\Debug\net8.0\ProjetConsole.dll
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\ProjetConsole\obj\Debug\net8.0\refint\ProjetConsole.dll
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\ProjetConsole\obj\Debug\net8.0\ProjetConsole.pdb
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\ProjetConsole\obj\Debug\net8.0\ProjetConsole.genruntimeconfig.cache
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\ProjetConsole\obj\Debug\net8.0\ref\ProjetConsole.dll
