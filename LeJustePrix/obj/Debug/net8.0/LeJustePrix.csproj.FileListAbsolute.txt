@@ -1,0 +1,14 @@
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\LeJustePrix\bin\Debug\net8.0\LeJustePrix.exe
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\LeJustePrix\bin\Debug\net8.0\LeJustePrix.deps.json
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\LeJustePrix\bin\Debug\net8.0\LeJustePrix.runtimeconfig.json
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\LeJustePrix\bin\Debug\net8.0\LeJustePrix.dll
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\LeJustePrix\bin\Debug\net8.0\LeJustePrix.pdb
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\LeJustePrix\obj\Debug\net8.0\LeJustePrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\LeJustePrix\obj\Debug\net8.0\LeJustePrix.AssemblyInfoInputs.cache
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\LeJustePrix\obj\Debug\net8.0\LeJustePrix.AssemblyInfo.cs
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\LeJustePrix\obj\Debug\net8.0\LeJustePrix.csproj.CoreCompileInputs.cache
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\LeJustePrix\obj\Debug\net8.0\LeJustePrix.dll
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\LeJustePrix\obj\Debug\net8.0\refint\LeJustePrix.dll
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\LeJustePrix\obj\Debug\net8.0\LeJustePrix.pdb
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\LeJustePrix\obj\Debug\net8.0\LeJustePrix.genruntimeconfig.cache
+C:\Users\bducl\OneDrive\Bureau\Projets portfolio\LeJustePrix\obj\Debug\net8.0\ref\LeJustePrix.dll
